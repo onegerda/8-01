@@ -15,5 +15,5 @@ https://github.com/netology-code/sys-pattern-homework/commit/cf0790c246babf60424
 
 ### Задание 3
 
-
+https://github.com/onegerda/8-02/network
 
